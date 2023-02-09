@@ -1,4 +1,5 @@
-#Titulo
-##Subtitulo
+# Mi archivo modificado con GitHub Desktop
+## La GUI por GIT
 
-Hola que tal **estas**?
+- Clonar
+- Crear una version
